@@ -11,4 +11,4 @@ function sumEven(num){
     }
     console.log(average);
 }
-sum
+sumEven(10000)
